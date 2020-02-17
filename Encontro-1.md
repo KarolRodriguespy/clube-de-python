@@ -14,7 +14,7 @@ Python é uma linguagem mais simplificada e que permite fazer diversas coisas, c
 
 Existem hoje vários sites e livros que podem te ajudar a iniciar os estudos, vamos listar aqui embaixo alguns links,materiais e como instalar o Python no seu computador
 
-Se você está começando a programar, alguns cursos de lógica de programação vão ajudar o aprendizado da linguagem: 
+Se você está começando a programar, alguns cursos de lógica de programação vão ajudar no aprendizado da linguagem: 
 
 * [Curso gratuito Senai - Lógica de programação](https://www.ead.ms.senai.br/cursos/iniciacao_profissional/?c=L%C3%B3gica_de_Programa%C3%A7%C3%A3o&id=11)
 
@@ -56,17 +56,30 @@ Existem várias disponíveis e você deve escolher a que você se adaptar melhor
 * [Começando com Python](https://gabrielschade.github.io/2018/01/31/basics-python.html)
 * [Apostila Caelum - Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-objetos/)
 
-### YouTube
+### Canais 
 
 * [Curso de Python - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-* [Lives de Python - Eduardo Mendes](
-https://www.youtube.com/playlist?list=PLOQgLBuj2-3K1hb7XgkGPb4S9YNIeHsPk)
+
+* [Python brasil  - caso você não possa ir no evento, eles postam as palestras neste canal](
+https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw)
+
+* [Live de Python (Eduardo Mendes) - lives semanais desenvolvendo ao vivo](
+https://www.youtube.com/user/mendesesduardo)
+
+* [Pyjamas - evento de Python online, pra assistir de pijamas](
+https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA)
+
+* [Brazil Pyladies - palestras das Ladies](
+https://www.youtube.com/channel/UCzFDzkgQ3mWNvcHoTVcT2bg)
+
 ### Livros
 
 * Python Fluente: Programação Clara, Concisa e Eficaz
 * Automatize tarefas maçantes com Python
 * Introdução à Programação Com Python: Algoritmos e Lógica de Programação Para Iniciantes
 
+
+##### Fontes
 
 https://eusoudev.com.br/python-como-surgiu/
 
