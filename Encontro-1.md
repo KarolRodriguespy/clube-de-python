@@ -56,6 +56,11 @@ Existem várias disponíveis e você deve escolher a que você se adaptar melhor
 * [Começando com Python](https://gabrielschade.github.io/2018/01/31/basics-python.html)
 * [Apostila Caelum - Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-objetos/)
 
+### YouTube
+
+* [Curso de Python - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+* [Lives de Python - Eduardo Mendes] (
+https://www.youtube.com/playlist?list=PLOQgLBuj2-3K1hb7XgkGPb4S9YNIeHsPk)
 ### Livros
 
 * Python Fluente: Programação Clara, Concisa e Eficaz
